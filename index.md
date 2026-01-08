@@ -39,17 +39,17 @@ The cerebral arterial system demonstrates remarkable variability. The so-called 
 |-----------|-----------|-----------|
 | Circle of Willis | "Normal" configuration | 34.5% |
 | Circle of Willis | Fetal PCA origin | 30% |
-| Anterior Cerebral A. | A-1 segment hypoplasia | 7% |
-| Anterior Cerebral A. | Azygos (single trunk) | 4% |
-| Anterior Cerebral A. | Median/third artery | 4.5% |
-| Anterior Communicating A. | Single vessel | 81% |
-| Anterior Communicating A. | Double/triple | 15.5% |
-| Anterior Communicating A. | Absent | 0.22% |
-| Middle Cerebral A. | Bifurcation pattern | 90% |
-| Middle Cerebral A. | Accessory MCA | 3% |
-| Anterior Choroidal A. | Origin from ICA | 85% |
-| Internal Carotid A. | Bilateral agenesis | 0.07% |
-| Primitive Trigeminal A. | Persistence | 0.1-0.6% |
+| Anterior Cerebral Artery | A-1 segment hypoplasia | 7% |
+| Anterior Cerebral Artery | Azygos (single trunk) | 4% |
+| Anterior Cerebral Artery | Median/third artery | 4.5% |
+| Anterior Communicating Artery | Single vessel | 81% |
+| Anterior Communicating Artery | Double/triple | 15.5% |
+| Anterior Communicating Artery | Absent | 0.22% |
+| Middle Cerebral Artery | Bifurcation pattern | 90% |
+| Middle Cerebral Artery | Accessory MCA | 3% |
+| Anterior Choroidal Artery | Origin from ICA | 85% |
+| Internal Carotid Artery | Bilateral agenesis | 0.07% |
+| Primitive Trigeminal Artery | Persistence | 0.1-0.6% |
 
 ---
 
@@ -59,29 +59,29 @@ The cerebral arterial system demonstrates remarkable variability. The so-called 
 The anastomotic arterial ring at the base of the brain - extremely variable with 83+ documented configurations.
 
 ### [2. Anterior Circulation](anterior-circulation.md)
-- Internal Carotid Artery
-- Anterior Cerebral Artery
-- Anterior Communicating Artery
-- Middle Cerebral Artery
-- Anterior Choroidal Artery
-- Recurrent Artery of Heubner
+- [Internal Carotid Artery](anterior-circulation.md#internal-carotid-artery)
+- [Anterior Cerebral Artery](anterior-circulation.md#anterior-cerebral-artery)
+- [Anterior Communicating Artery](anterior-circulation.md#anterior-communicating-artery)
+- [Middle Cerebral Artery](anterior-circulation.md#middle-cerebral-artery)
+- [Anterior Choroidal Artery](anterior-circulation.md#anterior-choroidal-artery)
+- [Recurrent Artery of Heubner](anterior-circulation.md#recurrent-artery-of-heubner)
 
 ### [3. Posterior Circulation](posterior-circulation.md)
-- Vertebral Arteries
-- Basilar Artery
-- Posterior Cerebral Artery
-- Posterior Communicating Artery
-- Cerebellar Arteries (AICA/PICA/SCA)
+- [Vertebral Arteries](posterior-circulation.md#vertebral-arteries)
+- [Basilar Artery](posterior-circulation.md#basilar-artery)
+- [Posterior Cerebral Artery](posterior-circulation.md#posterior-cerebral-artery)
+- [Posterior Communicating Artery](posterior-circulation.md#posterior-communicating-artery)
+- [Cerebellar Arteries (AICA/PICA/SCA)](posterior-circulation.md#cerebellar-arteries)
 
 ### [4. Carotid Arteries](carotid-arteries.md)
-- Common Carotid Arteries
-- External Carotid Artery
+- [Common Carotid Arteries](carotid-arteries.md#common-carotid-arteries)
+- [External Carotid Artery](carotid-arteries.md#external-carotid-artery)
 
 ### [5. Persistent Embryologic Arteries](persistent-embryologic-arteries.md)
-- Primitive Trigeminal Artery
-- Hypoglossal Artery
-- Otic Artery
-- Proatlantal Artery
+- [Primitive Trigeminal Artery](persistent-embryologic-arteries.md#primitive-trigeminal-artery)
+- [Hypoglossal Artery](persistent-embryologic-arteries.md#hypoglossal-artery)
+- [Otic Artery](persistent-embryologic-arteries.md#otic-artery)
+- [Proatlantal Artery](persistent-embryologic-arteries.md#proatlantal-artery)
 
 ### [6. References](references.md)
 Comprehensive bibliography organized by arterial structure.
