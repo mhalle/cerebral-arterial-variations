@@ -115,7 +115,7 @@ The anterior cerebral artery (ACA) arises from the ICA bifurcation, courses ante
 ### References
 Baptista, A.G. (1963) Studies on the arteries of the brain. II. The anterior cerebral artery: Some anatomic features and their clinical significance. Neurology (Minn.) 13:825-835. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14066997/) | [DOI](https://doi.org/10.1212/wnl.13.10.825)
 
-Dunker, R.O. and A.B. Harris. (1976) Surgical anatomy of the proximal anterior cerebral artery. J. Neurosurg. 44:359-367. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1249614/)
+Dunker, R.O. and A.B. Harris. (1976) Surgical anatomy of the proximal anterior cerebral artery. J. Neurosurg. 44:359-367. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1249614/) | [DOI](https://doi.org/10.3171/JNS.1976.44.3.0359)
 
 Firbas, W. und H. Sinzinger. (1972) Über den Anfangsteil der Arteria cerebri anterior. Acta Anat. (Basel) 83:81-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/4653291/)
 
@@ -257,7 +257,7 @@ The anterior choroidal artery supplies the choroid plexus, optic tract, cerebral
 ### References
 Carpenter, M.B., Noback, C.R. and M.L. Moss. (1954) The anterior choroidal artery. Its origin, course, distribution and variations. Arch. Neurol. Psychiatry 71:714-722. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13157701/)
 
-Hermann, L.H., Fernando, O.U. and E.S. Gurdjian. (1966) The anterior choroidal artery: An anatomical study of its area of distribution. Anat. Rec. 154:95-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5922500/)
+Hermann, L.H., Fernando, O.U. and E.S. Gurdjian. (1966) The anterior choroidal artery: An anatomical study of its area of distribution. Anat. Rec. 154:95-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5922500/) | [DOI](https://doi.org/10.1002/ar.1091540109)
 
 Sjögren, S.E. (1956) The anterior choroidal artery. Acta Radiol. 46:143-157. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13361923/) | [DOI](https://doi.org/10.3109/00016925609170823)
 

@@ -126,7 +126,7 @@ de Vriese, B. (1904) Sur les artères de la base du cerveau. Anatomischen Gesell
 
 de Vriese, B. (1904) Sur signification morphologique des artéries cérébrales. Arch. Biol. 21:357-457.
 
-Fawcett, E. and J.V. Blachford. (1906) The circle of Willis: an examination of 700 specimens. J. Anat. Physiol. 40:63-70. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1287474/)
+Fawcett, E. and J.V. Blachford. (1906) The circle of Willis: an examination of 700 specimens. J. Anat. Physiol. 40:63-70. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17232664/) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1287474/)
 
 Kaplan, H.A. and D.H. Ford. (1966) The Brain Vascular System. Elsevier, Amsterdam.
 
