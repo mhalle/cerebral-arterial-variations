@@ -106,7 +106,7 @@ Collateral circulation is maintained by:
 - Deep cervical-descending occipital anastomosis (deep at back of neck)
 
 ### References
-Boyd, J.D. (1933-34) Absence of the right common carotid artery. J. Anat. 68:551-557.
+Boyd, J.D. (1933-34) Absence of the right common carotid artery. J. Anat. 68:551-557. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17104504/)
 
 Kunishio, K., Yamamoto, Y., Sunami, N. and S. Asari. (1987) Agenesis of the left internal carotid artery, common carotid artery, and main trunk of the external carotid artery associated with multiple cerebral aneurysms. Surg. Neurol. 27:177-181. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3810447/)
 
