@@ -181,9 +181,9 @@ Livini, F. (1902) Il tipo normale e le variazioni dell'a. carotis externa. Speri
 
 Nizankowski, C. (1972) Seltener Fall eines gemeinsamen Stammes der Schilddrüsenzungengesichtsschlagader beim Menschen (Truncus thyrolinguofacialis). Anat. Anz. 132:530-534.
 
-Orr, A.E. (1907) A rare anomaly of the carotid arteries (internal and external). J. Anat. Physiol. 41:51.
+Orr, A.E. (1907) A rare anomaly of the carotid arteries (internal and external). J. Anat. Physiol. 41:51. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17232705/)
 
-Turner, W. (1879) A loop-like bifurcation of the external carotid artery. J. Anat. Physiol. 13:399.
+Turner, W. (1879) A loop-like bifurcation of the external carotid artery. J. Anat. Physiol. 13:399. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17231272/)
 
 ---
 

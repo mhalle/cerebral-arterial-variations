@@ -231,7 +231,7 @@ Crompton, M.R. (1962) The pathology of ruptured middle-cerebral aneurysms. Lance
 
 Jain, K.K. (1964) Some observations on the anatomy of the middle cerebral artery. Can. J. Surg. 7:134-139. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14142582/)
 
-Lang, J. (1983) Clinical Anatomy of the Head. Springer-Verlag, Berlin.
+Lang, J. (1983) Clinical Anatomy of the Head. Springer-Verlag, Berlin. [DOI](https://doi.org/10.1007/978-3-642-68242-1)
 
 ---
 
