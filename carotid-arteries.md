@@ -110,7 +110,7 @@ Boyd, J.D. (1933-34) Absence of the right common carotid artery. J. Anat. 68:551
 
 Kunishio, K., Yamamoto, Y., Sunami, N. and S. Asari. (1987) Agenesis of the left internal carotid artery, common carotid artery, and main trunk of the external carotid artery associated with multiple cerebral aneurysms. Surg. Neurol. 27:177-181. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3810447/)
 
-McAfee, D.K., Anson, B.J., and J.J. McDonald. (1953) Variation in the point of bifurcation of the common carotid artery. Q. Bull. Northwestern University Medical School 27:226-229.
+McAfee, D.K., Anson, B.J., and J.J. McDonald. (1953) Variation in the point of bifurcation of the common carotid artery. Q. Bull. Northwestern University Medical School 27:226-229. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13089053/)
 
 Morimoto, T., Nitta, K., Kazekawa, K. and K. Hashizume. (1990) The anomaly of a nonbifurcating cervical carotid artery. J. Neurosurgery 72:130-132. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2294172/)
 
