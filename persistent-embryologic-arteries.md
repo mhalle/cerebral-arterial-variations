@@ -127,6 +127,7 @@ Two types described:
 The embryonic carotid-basilar anastomoses form during weeks 4-5 of development and normally regress as the posterior communicating arteries develop and mature.
 
 ### Regression Pattern
+
 | Artery | Regression Period |
 |--------|-------------------|
 | Trigeminal | 5-6 weeks |

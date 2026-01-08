@@ -131,6 +131,7 @@ The anterior communicating artery (AComm) connects the two anterior cerebral art
 ### Variations
 
 #### Number
+
 | Pattern | Incidence |
 |---------|-----------|
 | Single vessel | ~81% (1,473/1,813 in one review) |
@@ -178,6 +179,7 @@ The middle cerebral artery (MCA) is the largest branch of the ICA, coursing late
 ### Variations
 
 #### Initial Branching Pattern (from 300 autopsy study)
+
 | Pattern | Incidence |
 |---------|-----------|
 | Bifurcation | 90% |
@@ -190,6 +192,7 @@ The middle cerebral artery (MCA) is the largest branch of the ICA, coursing late
 - Bifurcation at mouth of Sylvian fissure: 16%
 
 #### Terminal Branching (Lang, 1983)
+
 | Pattern | Incidence |
 |---------|-----------|
 | Trifurcation | 53% |
@@ -240,6 +243,7 @@ The anterior choroidal artery supplies the choroid plexus, optic tract, cerebral
 ### Variations
 
 #### Origin
+
 | Source | Incidence |
 |--------|-----------|
 | Internal carotid artery | 85% |

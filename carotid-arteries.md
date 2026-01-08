@@ -52,6 +52,7 @@ Both common carotids may arise from a common stem from the aorta.
 - May obliquely cross lower trachea above sternum level
 
 #### Bifurcation Level Variations
+
 | Level | Right Incidence | Poynter Data |
 |-------|-----------------|--------------|
 | High (hyoid or styloid) | 5/295 (Quain) | 3/400 |

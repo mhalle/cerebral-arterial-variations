@@ -195,6 +195,7 @@ Three paired arteries supply the cerebellum:
 ### Posterior Inferior Cerebellar Artery (PICA)
 
 #### Origin Variations
+
 | Origin Location | Incidence |
 |-----------------|-----------|
 | Intracranial vertebral artery | 61% |
