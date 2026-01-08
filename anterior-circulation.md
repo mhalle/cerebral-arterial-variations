@@ -68,7 +68,7 @@ In a study of 200 half-necks:
 ### References
 Adachi, B. (1928) Das Arteriensystem der Japaner. Kenkyusha Press, Kyoto.
 
-Lasjaunias, P. and A. Santoyo-Vasquez. (1984) Segmental agenesis of the internal carotid artery: angiographic aspects with embryological discussion. Anat. Clin. 6:133-141.
+Lasjaunias, P. and A. Santoyo-Vasquez. (1984) Segmental agenesis of the internal carotid artery: angiographic aspects with embryological discussion. Anat. Clin. 6:133-141. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6498000/) | [DOI](https://doi.org/10.1007/BF01773165)
 
 Lie, T.A. (1968) Congenital anomalies of the carotid arteries. In Excerpta medica, Amsterdam; pp31-51.
 
@@ -113,9 +113,9 @@ The anterior cerebral artery (ACA) arises from the ICA bifurcation, courses ante
 - Recurrent artery of Heubner may be doubled or tripled
 
 ### References
-Baptista, A.G. (1963) Studies on the arteries of the brain. II. The anterior cerebral artery: Some anatomic features and their clinical significance. Neurology (Minn.) 13:825-835.
+Baptista, A.G. (1963) Studies on the arteries of the brain. II. The anterior cerebral artery: Some anatomic features and their clinical significance. Neurology (Minn.) 13:825-835. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14066997/) | [DOI](https://doi.org/10.1212/wnl.13.10.825)
 
-Dunker, R.O. and A.B. Harris. (1976) Surgical anatomy of the proximal anterior cerebral artery. J. Neurosurg. 44:359-367.
+Dunker, R.O. and A.B. Harris. (1976) Surgical anatomy of the proximal anterior cerebral artery. J. Neurosurg. 44:359-367. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1249614/)
 
 Firbas, W. und H. Sinzinger. (1972) Über den Anfangsteil der Arteria cerebri anterior. Acta Anat. (Basel) 83:81-98.
 
@@ -167,7 +167,7 @@ de Almeida, F. (1933) Notes sur l'artère communicante anterieure. L'Assoc. Anat
 
 Busse, O. (1921) Aneurysmen und Bildungsfehler der Arteria communicans anterior. Arch. Pathol. Anat. Physiol. Klin. Med. 229:178-206.
 
-Kirgis, J.D., Fisher, W.L., Llewellyn, R.C. and E. McC. Peebles. (1966) Aneurysms of anterior communicating artery and gross anomalies of the circle of Willis. J. Neurosurg. 25:73-78.
+Kirgis, J.D., Fisher, W.L., Llewellyn, R.C. and E. McC. Peebles. (1966) Aneurysms of anterior communicating artery and gross anomalies of the circle of Willis. J. Neurosurg. 25:73-78. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5947049/) | [DOI](https://doi.org/10.3171/jns.1966.25.1.0073)
 
 ---
 
@@ -227,9 +227,9 @@ The middle cerebral artery (MCA) is the largest branch of the ICA, coursing late
 ### References
 Anderhuber, F., Weiglein, A. and R.K. Pucher. (1990) Über trifurcation der Arteria cerebri media. Acta Anat. 137:342-349.
 
-Crompton, M.R. (1962) The pathology of ruptured middle-cerebral aneurysms. Lancet 2:421.
+Crompton, M.R. (1962) The pathology of ruptured middle-cerebral aneurysms. Lancet 2:421. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13882322/)
 
-Jain, K.K. (1964) Some observations on the anatomy of the middle cerebral artery. Can. J. Surg. 7:134-139.
+Jain, K.K. (1964) Some observations on the anatomy of the middle cerebral artery. Can. J. Surg. 7:134-139. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14142582/)
 
 Lang, J. (1983) Clinical Anatomy of the Head. Springer-Verlag, Berlin.
 
@@ -255,9 +255,9 @@ The anterior choroidal artery supplies the choroid plexus, optic tract, cerebral
 - When absent, replaced by branch of deep cerebral or posterior communicating artery
 
 ### References
-Carpenter, M.B., Noback, C.R. and M.L. Moss. (1954) The anterior choroidal artery. Its origin, course, distribution and variations. Arch. Neurol. Psychiatry 71:714-722.
+Carpenter, M.B., Noback, C.R. and M.L. Moss. (1954) The anterior choroidal artery. Its origin, course, distribution and variations. Arch. Neurol. Psychiatry 71:714-722. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13157701/)
 
-Hermann, L.H., Fernando, O.U. and E.S. Gurdijan. (1966) The anterior choroidal artery: An anatomical study of its area of distribution. Anat. Rec. 154:95-101.
+Hermann, L.H., Fernando, O.U. and E.S. Gurdjian. (1966) The anterior choroidal artery: An anatomical study of its area of distribution. Anat. Rec. 154:95-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5922500/)
 
 Sjögren, S.E. (1956) The anterior choroidal artery. Acta Radiol. 46:143-157.
 

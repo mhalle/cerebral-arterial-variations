@@ -103,7 +103,7 @@ Batujeff, N. (1889) Eine seltene Arterienanomalie (Ursprung der A. basilaris aus
 
 DeCaro R., Serafini, M.T., Galli, S., Parenti, A., Guidolin, D., and P.F. Munari. (1995) Anatomy of segmental duplication in the human basilar artery. Possible site of aneurysm formation. Clin. Neuropathol. 14(6):303-309.
 
-Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101.
+Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3565095/)
 
 ---
 
@@ -137,7 +137,7 @@ Understanding PCA origin is critical because:
 ### References
 Kaplan, H.A. and D.H. Ford. (1966) The Brain Vascular System. Elsevier, Amsterdam.
 
-Padget, D.H. (1948) The development of cranial arteries in the human embryo. Contrib. Embryol. Carnegie Institute 32:205-261.
+Padget, D.H. (1948) The development of cranial arteries in the human embryo. Contrib. Embryol. Carnegie Institute 32:205-261. [Internet Archive](https://archive.org/details/carnegie-pub-575-embryology-v-32-no-212-development-cranial-arteries)
 
 ---
 
@@ -230,17 +230,17 @@ Four embryonic arteries directly connect the carotid and basilar systems:
 See [Persistent Embryologic Arteries](persistent-embryologic-arteries.md) for details.
 
 ### References
-Ahuja, A., Graves, V.B., Crosby, D.L. and C.M. Strother. (1992) Anomalous origin of the posterior inferior cerebellar artery from the internal carotid artery. Am. J. Neuroradiology (AJNR) 13:1625-1626.
+Ahuja, A., Graves, V.B., Crosby, D.L. and C.M. Strother. (1992) Anomalous origin of the posterior inferior cerebellar artery from the internal carotid artery. Am. J. Neuroradiology (AJNR) 13:1625-1626. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1442441/)
 
-Atkinson, W.J. (1949) The anterior inferior cerebellar artery. Its variations, pontine distribution, and significance in the surgery of cerebello-pontine angle tumors. J. Neurol. Neurosurg. Psychiatry 12:137-151.
+Atkinson, W.J. (1949) The anterior inferior cerebellar artery. Its variations, pontine distribution, and significance in the surgery of cerebello-pontine angle tumors. J. Neurol. Neurosurg. Psychiatry 12:137-151. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18127084/) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC497123/)
 
 Brunner, S. (1978) Anatomy of the posterior fossa arteries. In Salamon, G. (Ed.) Advances in Cerebral Angiography. Springer-Verlag.
 
-Siqueira, M., Piske, R., Ono, M. and R. Marino, Jr. (1993) Cerebellar arteries originating from the internal carotid artery. Am. J. Neuroradiology (AJNR) 14:1229-1235.
+Siqueira, M., Piske, R., Ono, M. and R. Marino, Jr. (1993) Cerebellar arteries originating from the internal carotid artery. Am. J. Neuroradiology (AJNR) 14:1229-1235. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8237708/)
 
-Sunderland, S. (1948) Neurovascular relations and anomalies at the base of the brain. J. Neurol. Neurosurg. Psychiatry 11:243-257.
+Sunderland, S. (1948) Neurovascular relations and anomalies at the base of the brain. J. Neurol. Neurosurg. Psychiatry 11:243-257. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18894644/) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC498368/)
 
-Uchino, A., Sawada, A., Takase, Y. and S. Kudo. (2003) Variations of the superior cerebellar artery. MR angiographic demonstration. Radiat. Med. 21(6):235-238.
+Uchino, A., Sawada, A., Takase, Y. and S. Kudo. (2003) Variations of the superior cerebellar artery. MR angiographic demonstration. Radiat. Med. 21(6):235-238. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14743895/)
 
 ---
 

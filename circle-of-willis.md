@@ -114,7 +114,7 @@ The source documentation includes extensive illustrations:
 
 ## References
 
-Baptista, A.G. (1964) Studies on the arteries of the brain. III. Circle of Willis: Morphologic features. Acta Neurol. Scand. 40:398-414.
+Baptista, A.G. (1964) Studies on the arteries of the brain. III. Circle of Willis: Morphologic features. Acta Neurol. Scand. 40:398-414. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14218154/) | [DOI](https://doi.org/10.1111/j.1600-0404.1964.tb02765.x)
 
 Beevor, C.E. (1908) Cerebral blood supply. Brain 30:403-425.
 
@@ -126,11 +126,11 @@ de Vriese, B. (1904) Sur les artères de la base du cerveau. Anatomischen Gesell
 
 de Vriese, B. (1904) Sur signification morphologique des artéries cérébrales. Arch. Biol. 21:357-457.
 
-Fawcett, E. and J.V. Blachford. (1906) The circle of Willis: an examination of 700 specimens. J. Anat. Physiol. 40:63-70.
+Fawcett, E. and J.V. Blachford. (1906) The circle of Willis: an examination of 700 specimens. J. Anat. Physiol. 40:63-70. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1287474/)
 
 Kaplan, H.A. and D.H. Ford. (1966) The Brain Vascular System. Elsevier, Amsterdam.
 
-Kirgis, J.D., Fisher, W.L., Llewellyn, R.C. and E. McC. Peebles. (1966) Aneurysms of anterior communicating artery and gross anomalies of the circle of Willis. J. Neurosurg. 25:73-78.
+Kirgis, J.D., Fisher, W.L., Llewellyn, R.C. and E. McC. Peebles. (1966) Aneurysms of anterior communicating artery and gross anomalies of the circle of Willis. J. Neurosurg. 25:73-78. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5947049/) | [DOI](https://doi.org/10.3171/jns.1966.25.1.0073)
 
 Kleiss, E. (1941-42) Die verschiedenen Formen des Circulus arteriosus Willisi. Anat. Anz. 92:216-230.
 
@@ -138,15 +138,15 @@ Miller-Fisher, C. (1965) The circle of Willis. Anatomical variations. Vasc. Dis.
 
 Mittenwallner, F. (1955) Variationsstatistische Untersuchungen an den basalen Hirngefässen. Acta Anat., Basel 24:51-88.
 
-Puchades-Orts, A., Nombela-Gomez, M. and G. Ortuno-Pacheco. (1976) Variations in form of circle of Willis: some anatomical and embryological considerations. Anat. Rec. 185(1):119-123.
+Puchades-Orts, A., Nombela-Gomez, M. and G. Ortuno-Pacheco. (1976) Variations in form of circle of Willis: some anatomical and embryological considerations. Anat. Rec. 185(1):119-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1267194/) | [DOI](https://doi.org/10.1002/ar.1091850112)
 
-Riggs, H. and C. Rupp. (1963) Variations in form of the circle of Willis. The relation of the variations to collateral circulation, anatomic analysis. Arch. Neurol. 8:24-30.
+Riggs, H. and C. Rupp. (1963) Variations in form of the circle of Willis. The relation of the variations to collateral circulation, anatomic analysis. Arch. Neurol. 8:24-30. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13973856/)
 
-Stehbens, W.E. (1963) Aneurysms and anatomical variation of cerebral vessels. Arch. Pathol. 75:45-64.
+Stehbens, W.E. (1963) Aneurysms and anatomical variation of cerebral vessels. Arch. Pathol. 75:45-64. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14087271/)
 
 Willis, T. (1664) Cerebri anatomie: cui accessit nervorum descripto et usus. Martyn and Allestry, London.
 
-Windle, B.C.A. (1888) The arteries forming the circle of Willis. J. Anat. Physiol. 22:289-293.
+Windle, B.C.A. (1888) The arteries forming the circle of Willis. J. Anat. Physiol. 22:289-293. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17231742/) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1288760/)
 
 ---
 
