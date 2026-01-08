@@ -116,7 +116,7 @@ The source documentation includes extensive illustrations:
 
 Baptista, A.G. (1964) Studies on the arteries of the brain. III. Circle of Willis: Morphologic features. Acta Neurol. Scand. 40:398-414. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14218154/) | [DOI](https://doi.org/10.1111/j.1600-0404.1964.tb02765.x)
 
-Beevor, C.E. (1908) Cerebral blood supply. Brain 30:403-425.
+Beevor, C.E. (1908) Cerebral blood supply. Brain 30:403-425. [PubMed (reprint)](https://pubmed.ncbi.nlm.nih.gov/23534075/)
 
 Bergman, R.A., Thompson, S.A., Afifi, A.K. and F.A. Saadeh. (1988) Compendium of Human Anatomic Variation: Catalog, Atlas and World Literature. Urban & Schwarzenberg, Baltimore and Munich.
 
@@ -144,7 +144,7 @@ Riggs, H. and C. Rupp. (1963) Variations in form of the circle of Willis. The re
 
 Stehbens, W.E. (1963) Aneurysms and anatomical variation of cerebral vessels. Arch. Pathol. 75:45-64. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14087271/)
 
-Willis, T. (1664) Cerebri anatomie: cui accessit nervorum descripto et usus. Martyn and Allestry, London.
+Willis, T. (1664) Cerebri anatomie: cui accessit nervorum descripto et usus. Martyn and Allestry, London. [Internet Archive](https://archive.org/details/cerebrianatomecu00will)
 
 Windle, B.C.A. (1888) The arteries forming the circle of Willis. J. Anat. Physiol. 22:289-293. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17231742/) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1288760/)
 

@@ -173,7 +173,7 @@ A curious variation: external carotid composed of two separate trunks that unite
 - Rare combination branch of superior thyroid, lingual, and facial arteries
 
 ### References
-Adachi, B. (1928) Das Arteriensystem der Japaner. Kenkyusha Press, Kyoto.
+Adachi, B. (1928) Das Arteriensystem der Japaner. Kenkyusha Press, Kyoto. [Open Library](https://openlibrary.org/books/OL6743014M/Das_Arteriensystem_der_Japaner)
 
 Czerwinski, F. (1981) Variability of the course of external carotid artery and its rami in man in the light of anatomical and radiological studies. Folia Morphol., Warsaw 40:449-453.
 

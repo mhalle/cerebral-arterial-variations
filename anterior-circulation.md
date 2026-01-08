@@ -66,7 +66,7 @@ In a study of 200 half-necks:
 - Dorsomedial to external carotid: 23.5%
 
 ### References
-Adachi, B. (1928) Das Arteriensystem der Japaner. Kenkyusha Press, Kyoto.
+Adachi, B. (1928) Das Arteriensystem der Japaner. Kenkyusha Press, Kyoto. [Open Library](https://openlibrary.org/books/OL6743014M/Das_Arteriensystem_der_Japaner)
 
 Lasjaunias, P. and A. Santoyo-Vasquez. (1984) Segmental agenesis of the internal carotid artery: angiographic aspects with embryological discussion. Anat. Clin. 6:133-141. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6498000/) | [DOI](https://doi.org/10.1007/BF01773165)
 
@@ -259,7 +259,7 @@ Carpenter, M.B., Noback, C.R. and M.L. Moss. (1954) The anterior choroidal arter
 
 Hermann, L.H., Fernando, O.U. and E.S. Gurdjian. (1966) The anterior choroidal artery: An anatomical study of its area of distribution. Anat. Rec. 154:95-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5922500/)
 
-Sjögren, S.E. (1956) The anterior choroidal artery. Acta Radiol. 46:143-157.
+Sjögren, S.E. (1956) The anterior choroidal artery. Acta Radiol. 46:143-157. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13361923/) | [DOI](https://doi.org/10.3109/00016925609170823)
 
 ---
 
