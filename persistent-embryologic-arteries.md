@@ -186,13 +186,13 @@ Lie, T.A. (1972) Congenital malformations of the carotid and vertebral arterial 
 
 Morita, A., Fukushima, T., Miyazaki, S., Shimizu, T. and M. Atsuchi. (1989) Tic douloureux caused by primitive trigeminal artery or its variant. J. Neurosurg. 70:415-419. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2915249/)
 
-Padget, D.H. (1948) The development of the cranial arteries in the human embryo. Contrib. Embryol. 32:205-262.
+Padget, D.H. (1948) The development of the cranial arteries in the human embryo. Contrib. Embryol. 32:205-262. [Internet Archive](https://archive.org/details/carnegie-pub-575-embryology-v-32-no-212-development-cranial-arteries)
 
 Shintani, S., Kuzuhara, S. and Y. Toyokura. (1990) MR imaging of persistent primitive trigeminal artery. Neuroradiology 32:79.
 
 Siqueira, M., Piske, R., Ono, M. and R. Marino, Jr. (1993) Cerebellar arteries originating from the internal carotid artery. AJNR 14:1229-1235. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8237708/)
 
-Teal, J.S., Rumbaugh, C.L., Bergeron, R.T., et al. (1972) Persistent carotid-superior cerebellar artery anastomosis: a variant of persistent trigeminal artery. Radiology 103:335-341.
+Teal, J.S., Rumbaugh, C.L., Bergeron, R.T., et al. (1972) Persistent carotid-superior cerebellar artery anastomosis: a variant of persistent trigeminal artery. Radiology 103:335-341. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5019418/) | [DOI](https://doi.org/10.1148/103.2.335)
 
 Tsukamoto, S., Hori, Y., Utsumi, S., Tanigake, T., Horiike, N. and R. Otani. (1981) Proatlantal intersegmental artery with absence of bilateral vertebral arteries. J. Neurosurg. 54:122-124.
 
