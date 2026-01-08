@@ -118,7 +118,7 @@ Longo, L. (1905) Le anomalie del poligono di Willis nell'uomo studiate comparati
 
 Lowrey, L.G. (1916) Anomaly in the circle of Willis, due to absence of the right internal carotid artery. Anat. Rec. 10:221-222.
 
-McCullough, A.W. (1962) Some anomalies of the cerebral arterial circle (of Willis) and related vessels. Anat. Rec. 142:537-543.
+McCullough, A.W. (1962) Some anomalies of the cerebral arterial circle (of Willis) and related vessels. Anat. Rec. 142:537-543. [DOI](https://doi.org/10.1002/ar.1091420411)
 
 McDonald, D.A. and J.M. Potter. (1951) The distribution of the blood to the brain. J. Physiol., London 114:356-371.
 
@@ -212,7 +212,7 @@ Anderhuber, F., Weiglein, A. and R.K. Pucher. (1990) Über trifurcation der Arte
 
 Castro-Rodrigues, M. (1955) Contribution a l'etude de l'artère sylvienne. Assoc. Anatomistes, Comptes Rendus 42:375-381.
 
-Chess, M.A., Barsotti, J.B., Chang, J-K., Ketonen, L.M. and P-L Westesson. (1995) Duplication of the extracranial internal carotid artery. Am. J. Neuroradiology (AJNR) 16:1545-1547.
+Chess, M.A., Barsotti, J.B., Chang, J-K., Ketonen, L.M. and P-L Westesson. (1995) Duplication of the extracranial internal carotid artery. Am. J. Neuroradiology (AJNR) 16:1545-1547. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7484653/)
 
 Crompton, M.R. (1962) The pathology of ruptured middle-cerebral aneurysms. Lancet 2:421.
 
@@ -266,7 +266,7 @@ Waddington, M.M. (1974) Atlas of Cerebral Angiography with Anatomic Correlation.
 
 Adachi, B. (1928) Das Arteriensystem der Japaner. Kenkyusha Press, Kyoto.
 
-Altman, F. (1947) Anomalies of the internal carotid artery and its branches: their embryological and comparative anatomical significance. Report of a new case of persistent stapedial artery in man. Laryngoscope 57:313-339.
+Altman, F. (1947) Anomalies of the internal carotid artery and its branches: their embryological and comparative anatomical significance. Report of a new case of persistent stapedial artery in man. Laryngoscope 57:313-339. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20241850/) | [DOI](https://doi.org/10.1288/00005537-194705000-00002)
 
 Anderson, W. (1888) An anatomical note upon the relation of the internal carotid artery to the inner wall of the tympanum. St. Thomas's Hospital Reports, London. 19:243-245.
 
@@ -276,7 +276,7 @@ Bergquist, B. (1946) Anomalies in the course of the internal carotid artery in t
 
 Cadarso, J.J. and J.J. Goyanes. (1926) A rare case of tortuosity of the internal carotid artery. J. Anat. 60:119-120.
 
-Campbell, R.L. and M.L. Dyken (1961) Four cases of carotid-basilar anastomosis associated with central nervous system dysfunction. J. Neurol. Neurosurg. Psychiatry 24:250-253.
+Campbell, R.L. and M.L. Dyken (1961) Four cases of carotid-basilar anastomosis associated with central nervous system dysfunction. J. Neurol. Neurosurg. Psychiatry 24:250-253. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13690272/) | [DOI](https://doi.org/10.1136/jnnp.24.3.250)
 
 Casini, M. (1894) Di due casi di anomalia della carotide e della vertebrale. Gazz. degli Ospedali e della Cliniche 15:1060-1063.
 
@@ -286,7 +286,7 @@ Congdon, E.D. (1922) Transformation of the aortic arch system during the develop
 
 Evans, T.H. (1956) Carotid canal anomaly. Other instances of absent internal carotid artery. Med. Times 84:1069-1072.
 
-Fischer, A.G.T. (1913) A case of complete absence of both internal carotid arteries, with a preliminary note on the developmental history of the stapedial artery. J. Anat. Physiol. 48:37-46.
+Fischer, A.G.T. (1913) A case of complete absence of both internal carotid arteries, with a preliminary note on the developmental history of the stapedial artery. J. Anat. Physiol. 48:37-46. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17232981/)
 
 Flemming, E.E. (1895) Absence of left internal carotid. J. Anat. Physiol. 29:xxii-xxiv.
 
@@ -298,7 +298,7 @@ Hübner, H.J. (1967) Zum Verlauf der Arteria carotis interna im Bereich des Hals
 
 Hyrtl, J. (1841) Einige in Chirurgischer Hinsicht wichtige Gefässvarietäten. Medizinisches Jahrbuch des Kaiserlich-Königlichen österreischen Staats. 24:421.
 
-Isherwood, I. and J. Dutton. (1969) Unusual anomaly of anterior cerebral artery. Acta Radiol. [Diag] 9:345-351.
+Isherwood, I. and J. Dutton. (1969) Unusual anomaly of anterior cerebral artery. Acta Radiol. [Diag] 9:345-351. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5381041/)
 
 Killien, F., Wyler, A. and L. Cromwell. (1980) Duplication of the internal carotid artery. Neuroradiology 19:101-102.
 
@@ -316,9 +316,9 @@ Lecuire, J., Buffard, P., Goutelle, A., et al. (1965) Considérations anatomique
 
 Lie, T.A. (1968) Congenital anomalies of the carotid arteries. Exerpta Medica, 30:84-93, Amsterdam.
 
-McCormick, W.F. (1969) A unique anomaly of the intracranial arteries of man. Neurology [Minneapolis] 19:77-80.
+McCormick, W.F. (1969) A unique anomaly of the intracranial arteries of man. Neurology [Minneapolis] 19:77-80. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5813129/) | [DOI](https://doi.org/10.1212/WNL.19.1.77)
 
-Metz, H., Murray-Leslie, R.M., Bannister, R.G., Bull, J.W.D. and J. Marshall. (1961) Kinking of the internal carotid artery in relation to cerebrovascular disease. Lancet 1:424-426.
+Metz, H., Murray-Leslie, R.M., Bannister, R.G., Bull, J.W.D. and J. Marshall. (1961) Kinking of the internal carotid artery in relation to cerebrovascular disease. Lancet 1:424-426. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13769898/) | [DOI](https://doi.org/10.1016/S0140-6736(61)90004-6)
 
 Morris, E.D. and D.B. Moffat. (1956) Abnormal origin of the basilar artery from the cervical part of the internal carotid artery and its embryological significance. Anat. Rec. 125:701-711.
 
@@ -468,7 +468,7 @@ Zagorsky, P. (1809) Observationum anatomicarum quadrigae de singulari arterium a
 
 Anderson, R.J. (1879) A new abnormality in connection with the vertebral artery. J. Anat. Physiol. 14:248-249.
 
-Basekin, C.C., Silit, E., Mutlu, H., Pekkafali, M.Z., Ozturk, E. and E. Kizilkaya. (2004) Type 1 proatlant artery with bilateral absence of the external carotid arteries. AJNR (Am. J. Neuroradiol.) 25(9):1619-1621.
+Basekin, C.C., Silit, E., Mutlu, H., Pekkafali, M.Z., Ozturk, E. and E. Kizilkaya. (2004) Type 1 proatlant artery with bilateral absence of the external carotid arteries. AJNR (Am. J. Neuroradiol.) 25(9):1619-1621. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15502151/)
 
 Bell, R.H., Swigart, L.L. and B.J. Anson. (1950) The relation of the vertebral artery to the cervical vertebrae. Based on a study of 200 specimens. Q. Bull. Northwestern University Medical School. 24:184-185.
 
@@ -486,17 +486,17 @@ Duret, H. (1873) Sur la distribution des artères nourricières du bulbe rachidi
 
 von Eichhorn, M. (1990) Ursachen für die Entstehung von Variationen im Verlauf der Arteria vertebralis und der Arteria basilaris. Gegenbaurs morphol. Jahrb., Leipzig 136(1):127-134.
 
-Fazan, V.P., Caetano, A.G., and O.A. Filno. (2004) Anomalous origin and cervical course of the vertebral artery in the presence of a retroesophageal right subclavian artery. Clin Anat. 17(4):354-357.
+Fazan, V.P., Caetano, A.G., and O.A. Filno. (2004) Anomalous origin and cervical course of the vertebral artery in the presence of a retroesophageal right subclavian artery. Clin Anat. 17(4):354-357. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15108343/) | [DOI](https://doi.org/10.1002/ca.10197)
 
-Gillilan, L.A. (1958) The arterial blood supply of the human spinal cord. J. Comp. Neurol. 110:75-103.
+Gillilan, L.A. (1958) The arterial blood supply of the human spinal cord. J. Comp. Neurol. 110:75-103. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13631126/) | [DOI](https://doi.org/10.1002/cne.901100104)
 
-Giuffrè, R. and S. Sherkat. (2000) Maldevelopmental pathology of the vertebral artery in infancy and childhood. Child's Nerv. System 16:627-632.
+Giuffrè, R. and S. Sherkat. (2000) Maldevelopmental pathology of the vertebral artery in infancy and childhood. Child's Nerv. System 16:627-632. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11151711/) | [DOI](https://doi.org/10.1007/PL00013718)
 
 Gruber, W. (1878) Ursprung der Arteria vertebralis dextra von der Subclavia knapp neben der Carotis, mit Kreuzung der Thyroidea inferior von vorn während ihres Verlaufes. Arch. Pathol. Anat. Physiol. Klin. Med. 74:433-434.
 
 Guiria, P.M. (1890) Ancora del rapporto che si stabilisce fra l'A. vertebrale destro e il N. laryngeô inferiore, quando ecc. Mem. della R. Accademia Medica di Genova 1890:7-17.
 
-Hassler, O. (1966) Blood supply to the human spinal cord. A microangiographic study. Arch. Neurol. 15:302-307.
+Hassler, O. (1966) Blood supply to the human spinal cord. A microangiographic study. Arch. Neurol. 15:302-307. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5912010/) | [DOI](https://doi.org/10.1001/ARCHNEUR.1966.00470150080013)
 
 Huber, G. and U. Piepgras. (1976) Origin of the left vertebral artery from the left external carotid artery. Fortschritte Röntgenstrahlen. 125(1):63-66.
 
@@ -614,7 +614,7 @@ Ahuja, A., Graves, V.B., Crosby, D.L. and C.M. Strother. (1992) Anomalous origin
 
 Atkinson, W.J. (1949) The anterior inferior cerebellar artery. Its variations, pontine distribution, and significance in the surgery of cerebello-pontine angle tumors. J. Neurol. Neurosurg. Psychiatry 12:137-151.
 
-Bingham, W.G. and G.J. Hayes. (1961) Persistent carotid-basilar anastomosis. J. Neurosurg. 18:398-400.
+Bingham, W.G. and G.J. Hayes. (1961) Persistent carotid-basilar anastomosis. J. Neurosurg. 18:398-400. [DOI](https://doi.org/10.3171/JNS.1961.18.3.0398)
 
 Cambell, R.L. and M.L. Dyken (1961) Four cases of carotid-basilar anastomosis associated with central nervous system dysfunction. J. Neuro. Neurosurg. Psychiat. 24:250-253.
 
@@ -638,7 +638,7 @@ Guerrier, Y. and J. Olivier. (1951) A propos de l'origine des artères cérébel
 
 Harrison, C.R. and C. Luttrell. (1953) Persistent carotid-basilar anastomosis. Three arteriographically demonstrated cases with one anatomical specimen. J. Neurosurg. 10:205-215.
 
-Kempe, L.G. and D.R. Smith (1969) Trigeminal neuralgie, facial spasm, intermedius and glossopharyngeal neuralgia with persistent carotid-basilar anastomosis. J. Neurosurg. 31:445-451.
+Kempe, L.G. and D.R. Smith (1969) Trigeminal neuralgie, facial spasm, intermedius and glossopharyngeal neuralgia with persistent carotid-basilar anastomosis. J. Neurosurg. 31:445-451. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5349090/) | [DOI](https://doi.org/10.3171/JNS.1969.31.4.0445)
 
 Kielbasinski, G. (1976) Arteries of the inferior part of the vermis cerebelli in man. Folia Morphol., Warsaw 35:149-157.
 
