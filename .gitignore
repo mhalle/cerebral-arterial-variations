@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build output (static site generators)
+_site/
+public/
+dist/
+build/
+.cache/
+
+# Node.js (if using documentation tooling)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if using mkdocs, sphinx, etc.)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
