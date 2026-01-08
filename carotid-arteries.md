@@ -175,7 +175,7 @@ A curious variation: external carotid composed of two separate trunks that unite
 ### References
 Adachi, B. (1928) Das Arteriensystem der Japaner. Kenkyusha Press, Kyoto. [Open Library](https://openlibrary.org/books/OL6743014M/Das_Arteriensystem_der_Japaner)
 
-Czerwinski, F. (1981) Variability of the course of external carotid artery and its rami in man in the light of anatomical and radiological studies. Folia Morphol., Warsaw 40:449-453.
+Czerwinski, F. (1981) Variability of the course of external carotid artery and its rami in man in the light of anatomical and radiological studies. Folia Morphol., Warsaw 40:449-453. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6985051/)
 
 Livini, F. (1902) Il tipo normale e le variazioni dell'a. carotis externa. Sperimentale 5:473-486.
 

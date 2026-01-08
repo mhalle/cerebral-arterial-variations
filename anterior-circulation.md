@@ -117,7 +117,7 @@ Baptista, A.G. (1963) Studies on the arteries of the brain. II. The anterior cer
 
 Dunker, R.O. and A.B. Harris. (1976) Surgical anatomy of the proximal anterior cerebral artery. J. Neurosurg. 44:359-367. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1249614/)
 
-Firbas, W. und H. Sinzinger. (1972) Über den Anfangsteil der Arteria cerebri anterior. Acta Anat. (Basel) 83:81-98.
+Firbas, W. und H. Sinzinger. (1972) Über den Anfangsteil der Arteria cerebri anterior. Acta Anat. (Basel) 83:81-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/4653291/)
 
 Kleiss, E. (1944-45) Die arteria cerebralis anteior. Anat. Anz. 95:353-372.
 
@@ -225,7 +225,7 @@ The middle cerebral artery (MCA) is the largest branch of the ICA, coursing late
   - From MCA branch: 20.3%
 
 ### References
-Anderhuber, F., Weiglein, A. and R.K. Pucher. (1990) Über trifurcation der Arteria cerebri media. Acta Anat. 137:342-349.
+Anderhuber, F., Weiglein, A. and R.K. Pucher. (1990) Über trifurcation der Arteria cerebri media. Acta Anat. 137:342-349. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2368589/) | [DOI](https://doi.org/10.1159/000146906)
 
 Crompton, M.R. (1962) The pathology of ruptured middle-cerebral aneurysms. Lancet 2:421. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13882322/)
 

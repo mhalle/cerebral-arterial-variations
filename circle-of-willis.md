@@ -120,7 +120,7 @@ Beevor, C.E. (1908) Cerebral blood supply. Brain 30:403-425. [PubMed (reprint)](
 
 Bergman, R.A., Thompson, S.A., Afifi, A.K. and F.A. Saadeh. (1988) Compendium of Human Anatomic Variation: Catalog, Atlas and World Literature. Urban & Schwarzenberg, Baltimore and Munich.
 
-Blackburn, J.W. (1907) Anomalies of encephalic arteries among the insane. J. Comp. Neurol. 17:493-509.
+Blackburn, J.W. (1907) Anomalies of encephalic arteries among the insane. J. Comp. Neurol. 17:493-509. [DOI](https://doi.org/10.1002/CNE.920170604)
 
 de Vriese, B. (1904) Sur les artères de la base du cerveau. Anatomischen Gesellschaft 1904:88-99.
 

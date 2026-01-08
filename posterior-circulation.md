@@ -65,9 +65,9 @@ The right vertebral artery may arise from:
 ### References
 Berry, R. and J. Anderson. (1910) A case of nonunion of the vertebrales with consequent abnormal origin of the basilaris. Anat. Anz. 35:54-65.
 
-McMinn, R.M.H. (1953) A case of non-union of the vertebral arteries. Anat. Rec. 116:283-286.
+McMinn, R.M.H. (1953) A case of non-union of the vertebral arteries. Anat. Rec. 116:283-286. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13080676/) | [DOI](https://doi.org/10.1002/AR.1091160304)
 
-von Eichhorn, M. (1990) Ursachen für die Entstehung von Variationen im Verlauf der Arteria vertebralis und der Arteria basilaris. Gegenbaurs morphol. Jahrb., Leipzig 136(1):127-134.
+von Eichhorn, M. (1990) Ursachen für die Entstehung von Variationen im Verlauf der Arteria vertebralis und der Arteria basilaris. Gegenbaurs morphol. Jahrb., Leipzig 136(1):127-134. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2318395/)
 
 ---
 
@@ -101,7 +101,7 @@ Studies suggest atypical artery position and arterial loops may be more common i
 ### References
 Batujeff, N. (1889) Eine seltene Arterienanomalie (Ursprung der A. basilaris aus der A. carotis interna). Anat. Anz. 4:282-285.
 
-DeCaro R., Serafini, M.T., Galli, S., Parenti, A., Guidolin, D., and P.F. Munari. (1995) Anatomy of segmental duplication in the human basilar artery. Possible site of aneurysm formation. Clin. Neuropathol. 14(6):303-309.
+DeCaro R., Serafini, M.T., Galli, S., Parenti, A., Guidolin, D., and P.F. Munari. (1995) Anatomy of segmental duplication in the human basilar artery. Possible site of aneurysm formation. Clin. Neuropathol. 14(6):303-309. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8605734/)
 
 Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3565095/)
 
