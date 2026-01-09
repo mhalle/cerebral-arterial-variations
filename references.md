@@ -104,7 +104,7 @@ Hasenjäger, T. (1937) Ein Beitrag zu den Abnormitäten des Circulus Wilisii. Zb
 
 Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101.
 
-Kirgis, J.D., Fisher, W.L., Llewellyn, R.C. and E. McC. Peebles. (1966) Aneurysms of anterior communicating artery and gross anomalies of the circle of Willis. J. Neurosurg. 25:73-78.
+Kirgis, J.D., Fisher, W.L., Llewellyn, R.C. and E. McC. Peebles. (1966) Aneurysms of anterior communicating artery and gross anomalies of the circle of Willis. J. Neurosurg. 25:73-78. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5947049/) | [DOI](https://doi.org/10.3171/JNS.1966.25.1.0073)
 
 Kleiss, E. (1941-42) Die verschiedenen Formen des Circulus arteriosus Willisi. Anat. Anz. 92:216-230.
 
@@ -156,7 +156,7 @@ Windle, B.C.A. (1888) The arteries forming the circle of Willis. J. Anat. Physio
 
 Afifi, A. (2004) Personal Observation.
 
-Baptista, A.G. (1963) Studies on the arteries of the brain. II. The anterior cerebral artery: Some anatomic features and their clinical significance. Neurology (Minn.) 13:825-835.
+Baptista, A.G. (1963) Studies on the arteries of the brain. II. The anterior cerebral artery: Some anatomic features and their clinical significance. Neurology (Minn.) 13:825-835. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14066997/) | [DOI](https://doi.org/10.1212/WNL.13.10.825)
 
 de Almeida, F. (1933) Notes sur l'artère cérébrale anterieure. L'Assoc. Anatomistes, Comptes Rendus. 28:8-10.
 
@@ -178,9 +178,9 @@ Hédon, E. et J. Labougle. (1889) Variété dans le trajet et la distribution de
 
 Kleiss, E. (1944-45) Die arteria cerebralis anteior. Anat. Anz. 95:353-372.
 
-Morris, A.A. and C.M. Peck. (1955) Roentgenographic study of the variations in the normal anterior cerebral artery. One hundred cases studied in the lateral plane. Am. J. Roentgenol. 74:818-826.
+Morris, A.A. and C.M. Peck. (1955) Roentgenographic study of the variations in the normal anterior cerebral artery. One hundred cases studied in the lateral plane. Am. J. Roentgenol. 74:818-826. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13258933/)
 
-Robinson, L.R. (1959) An unusual human anterior cerebral artery. J. Anat. 93:131-133.
+Robinson, L.R. (1959) An unusual human anterior cerebral artery. J. Anat. 93:131-133. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13620625/)
 
 Sinzinger, H., Hoyer-Volavsek, C. and W. Feigl. (1973) Über eine zusätzliche linke Arteria cerebri anterior beim Menschen. Anat. Anz. 133:377-281.
 
@@ -214,7 +214,7 @@ Castro-Rodrigues, M. (1955) Contribution a l'etude de l'artère sylvienne. Assoc
 
 Chess, M.A., Barsotti, J.B., Chang, J-K., Ketonen, L.M. and P-L Westesson. (1995) Duplication of the extracranial internal carotid artery. Am. J. Neuroradiology (AJNR) 16:1545-1547. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7484653/)
 
-Crompton, M.R. (1962) The pathology of ruptured middle-cerebral aneurysms. Lancet 2:421.
+Crompton, M.R. (1962) The pathology of ruptured middle-cerebral aneurysms. Lancet 2:421. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13882322/) | [DOI](https://doi.org/10.1016/S0140-6736(62)90281-7)
 
 Duroux, P.E., Dujol, H. and J. Bossy. (1952) Contribution on l'étude de l'artère sylvienne et de ses territoires vasculaires. Assoc. Anatomistes, Comptes Rendus 39:135-145.
 
@@ -228,7 +228,7 @@ Herman, L.H., Ostrowski, A.Z. and E.S. Gurdjian. (1963) Perforating branches of 
 
 Iontov, A. (1962) Variation in verlauf der arteria cerebri. Tr. Nauchnoissl. Piskonevrol. Inst. Bekhter (Lenningrad) 28:45-68.
 
-Jain, K.K. (1964) Some observations on the anatomy of the middle cerebral artery. Can. J. Surg. 7(2):134-139.
+Jain, K.K. (1964) Some observations on the anatomy of the middle cerebral artery. Can. J. Surg. 7(2):134-139. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14142582/)
 
 Kwak, R., Kuwahara, K., Niizuma, H. and J. Suzuki (1979) Anomalies of the middle cerebral artery with intracranial saccular aneurysms. No Shinkei Geka 7:691-696.
 
@@ -340,7 +340,7 @@ Rath, G. and R. Prakash. (1984) Double vertebral artery in an Indian cadaver. Cl
 
 Roope, A.P. (1913) Anomalous internal carotid artery. J. Indiana State Medical Association 6:162.
 
-Rosen, I.W., Mills, D.F., Nadel, H.I. and D.D. Maiserman. (1975) Angiographic demonstration of congenital absence of both internal carotid arteries. Case report. J. Neurosurg. 42:478-482.
+Rosen, I.W., Mills, D.F., Nadel, H.I. and D.D. Maiserman. (1975) Angiographic demonstration of congenital absence of both internal carotid arteries. Case report. J. Neurosurg. 42:478-482. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1123670/) | [DOI](https://doi.org/10.3171/JNS.1975.42.4.0478)
 
 Schmeidel, G. (1932) Die Entwicklung der Arteria vertebralis des Menschen. Morphol. Jahrbuch 71:315-435.
 
@@ -520,7 +520,7 @@ Nathan, H. and M.R. Seidel. (1983) The association of a retroesophageal right su
 
 Nizankowski, C., Noczynski, L. and E. Suder. (1982) Variability of the origin of ramifications of the subclavian artery in humans (studies on the Polish population). Folia Morphol. 41:281-294.
 
-Okahara, M., Kiyosue, H., Mori, H., Tanoue, S., Sainou, M. and H. Nagatomi. (2002) Anatomic variations of the cerebral arteries and their embryology: a pictoral review. Eur. Radiol. 12(10):2548-2561.
+Okahara, M., Kiyosue, H., Mori, H., Tanoue, S., Sainou, M. and H. Nagatomi. (2002) Anatomic variations of the cerebral arteries and their embryology: a pictoral review. Eur. Radiol. 12(10):2548-2561. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12271398/) | [DOI](https://doi.org/10.1007/s00330-001-1286-x)
 
 Paterson, A.M. (1884) Notes on abnormalities, with special reference to the vertebral arteries. J. Anat. Physiol. 18:295-303.
 
