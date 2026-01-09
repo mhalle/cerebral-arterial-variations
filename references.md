@@ -102,7 +102,7 @@ Gunter, R.G. (1964) The diameter of the cerebral arteries of the human fetus. An
 
 Hasenjäger, T. (1937) Ein Beitrag zu den Abnormitäten des Circulus Wilisii. Zbl. Neurochir. 2:34-38.
 
-Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101.
+Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3565095/)
 
 Kirgis, J.D., Fisher, W.L., Llewellyn, R.C. and E. McC. Peebles. (1966) Aneurysms of anterior communicating artery and gross anomalies of the circle of Willis. J. Neurosurg. 25:73-78. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5947049/) | [DOI](https://doi.org/10.3171/JNS.1966.25.1.0073)
 
@@ -122,7 +122,7 @@ McCullough, A.W. (1962) Some anomalies of the cerebral arterial circle (of Willi
 
 McDonald, D.A. and J.M. Potter. (1951) The distribution of the blood to the brain. J. Physiol., London 114:356-371.
 
-McMinn, R.M.H. (1953) A case of non-union of the vertebral arteries. Anat. Rec. 116:283-286.
+McMinn, R.M.H. (1953) A case of non-union of the vertebral arteries. Anat. Rec. 116:283-286. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13080676/) | [DOI](https://doi.org/10.1002/AR.1091160304)
 
 Miller-Fisher, C. (1965) The circle of Willis. Anatomical variations. Vasc. Dis. 2:99-105.
 
@@ -134,7 +134,7 @@ Opitz, E. and M. Schneider. (1950) Über die Sauerstoffversogung des Gehirns und
 
 Parnisetti, C. (1902) Anomalie del poligono arterioso del Willis nei delinquenti in rapporto con alterazioni del cervello e del cuore. Archivio di Psichiatria, Scienze Penali ed Antropologia Criminale 23:11-27.
 
-Puchades-Orts, A., Nombela-Gomez, M. and G. Ortuno-Pacheco. (1976) Variations in form of circle of Willis: some anatomical and embryological considerations. Anat. Rec. 185(1):119-123.
+Puchades-Orts, A., Nombela-Gomez, M. and G. Ortuno-Pacheco. (1976) Variations in form of circle of Willis: some anatomical and embryological considerations. Anat. Rec. 185(1):119-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1267194/) | [DOI](https://doi.org/10.1002/ar.1091850112)
 
 Riggs, H. and C. Rupp. (1963) Variations in form of the circle of Willis. The relation of the variations to collateral circulation, anatomic analysis. Arch. Neurol. 8:24-30.
 
@@ -208,7 +208,7 @@ Stopford, J.S.B. (1916) The anterior of the pours and medulla oblongata. J. Anat
 
 ### Middle Cerebral Artery
 
-Anderhuber, F., Weiglein, A. and R.K. Pucher. (1990) Über trifurcation der Arteria cerebri media. Acta Anat. 137:342-349.
+Anderhuber, F., Weiglein, A. and R.K. Pucher. (1990) Über trifurcation der Arteria cerebri media. Acta Anat. 137:342-349. [DOI](https://doi.org/10.1159/000146906)
 
 Castro-Rodrigues, M. (1955) Contribution a l'etude de l'artère sylvienne. Assoc. Anatomistes, Comptes Rendus 42:375-381.
 
@@ -224,7 +224,7 @@ Gabrielle, H., Latarjet, M., Lecuire, J., Replumaz, P.R. and G. Maret. (1949) Co
 
 Gabrielle, H., Latarjet, M., Lecuire, J. and P. Milleret. (1949) Contribution a l'étude macroscopic de la vascularisation du lobe temporal chez l'homme. Assoc. Anatomistes, Comptes Rendus 36:339-352.
 
-Herman, L.H., Ostrowski, A.Z. and E.S. Gurdjian. (1963) Perforating branches of the middle cerebral artery. Arch. Neurol. (Chicago) 8:32-34.
+Herman, L.H., Ostrowski, A.Z. and E.S. Gurdjian. (1963) Perforating branches of the middle cerebral artery. Arch. Neurol. (Chicago) 8:32-34. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13961097/) | [DOI](https://doi.org/10.1001/ARCHNEUR.1963.00460010048005)
 
 Iontov, A. (1962) Variation in verlauf der arteria cerebri. Tr. Nauchnoissl. Piskonevrol. Inst. Bekhter (Lenningrad) 28:45-68.
 
@@ -238,7 +238,7 @@ Riggs, H.E. and C. Rupp. (1963) Variation in form of Circle of Willis. Archives 
 
 Ring, B.A. (1962) Middle cerebral artery: Anatomical and radiographic study. Acta Radiol. 57:289-300.
 
-Stehbens, W.E. (1963) Aneurysms and anatomical variation of cerebral arteries. Arch. Path. (Chicago) 75:45-64.
+Stehbens, W.E. (1963) Aneurysms and anatomical variation of cerebral arteries. Arch. Path. (Chicago) 75:45-64. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14087271/)
 
 ---
 
@@ -334,7 +334,7 @@ Pakula, H. and J. Zaigner. (1970) The small branches of the cavernous portion of
 
 Parkinson, D. (1964) Collateral circulation of the cavernous carotid artery: Anatomy. Can. J. Surg. 7:251-268.
 
-Priman, J. and D.H. Christie. (1959) A case of abnormal internal carotid artery and associated vascular anomalies. Anat. Rec. 134:87-95.
+Priman, J. and D.H. Christie. (1959) A case of abnormal internal carotid artery and associated vascular anomalies. Anat. Rec. 134:87-95. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14434904/) | [DOI](https://doi.org/10.1002/ar.1091340109)
 
 Rath, G. and R. Prakash. (1984) Double vertebral artery in an Indian cadaver. Clin. Anat. 6:117-119.
 
@@ -514,7 +514,7 @@ Luneau, -. (1870) Duex observations d'oblitération de l'vertébrale du côté g
 
 Mannu, A. (1914-15) Variazioni dell'arteria vertebralis nell'uomo e nei mammiferi. Arch. Ital. Anatomia Embriologia 13:79-113.
 
-McMinn, R.M.H. (1953) A case of non-union of the vertebral arteries. Anat. Rec. 116:283-286.
+McMinn, R.M.H. (1953) A case of non-union of the vertebral arteries. Anat. Rec. 116:283-286. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13080676/) | [DOI](https://doi.org/10.1002/AR.1091160304)
 
 Nathan, H. and M.R. Seidel. (1983) The association of a retroesophageal right subclavian artery, a right-sided terminating thoracic duct, and a left vertebral artery of aortic origin: Anatomical and clinical considerations. Acta Anat. 117:362-373.
 
@@ -556,7 +556,7 @@ Bohutova, J., Markorva, J., and J. Neuwirth. (1990) Anomolies of the basilar and
 
 Cieslicki, K., Gielecki, J. and T. Wilczak. (1997) Redundancy of the main cerebral arteries in morphological variations of the Willis circle. Neurol. Neurochir. Pol. 31(3):463-474.
 
-DeCaro R., Serafini, M.T., Galli, S., Parenti, A., Guidolin, D., and P.F. Munari. (1995) Anatomy of segmental duplication in the human basilar artery. Clin. Neuropathol. 14(6):303-309.
+DeCaro R., Serafini, M.T., Galli, S., Parenti, A., Guidolin, D., and P.F. Munari. (1995) Anatomy of segmental duplication in the human basilar artery. Clin. Neuropathol. 14(6):303-309. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8605734/)
 
 von Eichhorn, M. (1990) Ursachen für die Entstehung von Variationen im Verlauf der Arteria vertebralis und der Arteria basilaris. Gegenbaurs morphol. Jahrb., Leipzig 136(1):127-134.
 
@@ -564,7 +564,7 @@ García Cañizares, D.F. (1895) Anomalias Arteriales. Revista de Ciencias Medica
 
 Gergiigeviski, I.V. (1906) A variation of the basilar artery. Khirurgiia 20:475-486.
 
-Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101.
+Hillen, B. (1986) The variability of the circle of Willis: univariate and bivariate analysis. Acta Morphol. Neerl Scand. 24(2):87-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3565095/)
 
 Kameyama, N. (1962) Clinicopathological significance of variations in the basilar arteries. Yokufuen Chosa Kenkyu Kiyo 35:13-26.
 
