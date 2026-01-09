@@ -618,7 +618,7 @@ Bingham, W.G. and G.J. Hayes. (1961) Persistent carotid-basilar anastomosis. J. 
 
 Cambell, R.L. and M.L. Dyken (1961) Four cases of carotid-basilar anastomosis associated with central nervous system dysfunction. J. Neuro. Neurosurg. Psychiat. 24:250-253.
 
-Chambers, A.A. and R. Lukin. (1975) Trigeminal artery connection to the posterior inferior cerebellar arteries. Neuroradiology 9:121-123.
+Chambers, A.A. and R. Lukin. (1975) Trigeminal artery connection to the posterior inferior cerebellar arteries. Neuroradiology 9:121-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1161139/) | [DOI](https://doi.org/10.1007/BF00332958)
 
 Dechaume, J.P., Lévy, A., Kofmen, J., et al. (1966) A propos des anastomoses carotidobasilaires anormales. Considérations cliniques et radiologiques. Neuro-chirurgie 12:777-788.
 
@@ -702,11 +702,11 @@ Badal, -. (1880) Tumeurs congénitales des globes ocular. Persistance de l'artè
 
 Carbonin, C., Benedetti, A., Curri, D. and L. Rubini. (1976) A case of persistent hypoglossal artery. Neurochirurgia 19:231-236.
 
-Chambers, A.A. and R. Lukin. (1975) Trigeminal artery connection to the posterior inferior cerebellar arteries. Neuroradiology 9:121-123.
+Chambers, A.A. and R. Lukin. (1975) Trigeminal artery connection to the posterior inferior cerebellar arteries. Neuroradiology 9:121-123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1161139/) | [DOI](https://doi.org/10.1007/BF00332958)
 
 Claiborne, J.H. (1898) A case of supernumerary artery of the optic disc projecting into the vitreous humor. Med. Record 54:423-424.
 
-Cobb, S.R., Heishima, G.B., Mehringer, C.M., Grinnell, V.S. and H.W. Primbram. (1983) Persistent trigeminal artery variant: carotid-anterior inferior cerebellar artery anastomosis. Surg. Neurol. 19:263-266.
+Cobb, S.R., Heishima, G.B., Mehringer, C.M., Grinnell, V.S. and H.W. Primbram. (1983) Persistent trigeminal artery variant: carotid-anterior inferior cerebellar artery anastomosis. Surg. Neurol. 19:263-266. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6836480/) | [DOI](https://doi.org/10.1016/S0090-3019(83)80013-5)
 
 Dilenge, D. and M. Heon. (1974) The internal carotid artery. In Newton, T.H. and D.G. Potts, Eds. Radiology of the Skull and Brain - Angiology. Mosby, St Louis.
 
@@ -716,11 +716,11 @@ Fields, W.S. (1980) Persistent hypoglossal artery in association with advanced a
 
 Harwood-Nash, D.C. and C.R. Fitz. (1976) Neuroradiology in infant and children. Mosby, St Louis.
 
-Haughton, V.M., Rosenbaum, A.E. and J. Pearce. (1978) Internal carotid artery origins of the inferior cerebellar arteries. AJR: Am. J. Roentgenology 130:1191-1192.
+Haughton, V.M., Rosenbaum, A.E. and J. Pearce. (1978) Internal carotid artery origins of the inferior cerebellar arteries. AJR: Am. J. Roentgenology 130:1191-1192. [PubMed](https://pubmed.ncbi.nlm.nih.gov/418669/) | [DOI](https://doi.org/10.2214/AJR.130.6.1191)
 
 Higano, S., Uemura, K., Ogawa, T. et al. (1987) Persistent trigeminal artery variant - A case report of five cases and some embryological considerations. Rhinsho Hoshasen 32:263-268.
 
-Ito, J., Takeda, N., Suzuki, Y., Takeuchi, S., Osugi, S. and Y. Yoshida. (1980) Anomalous origin of the anterior inferior cerebellar arteries from the internal carotid artery. Neuroradiology 19:105-108.
+Ito, J., Takeda, N., Suzuki, Y., Takeuchi, S., Osugi, S. and Y. Yoshida. (1980) Anomalous origin of the anterior inferior cerebellar arteries from the internal carotid artery. Neuroradiology 19:105-108. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7366834/) | [DOI](https://doi.org/10.1007/BF00342605)
 
 Katsuragi, M., Inoue, Y., Ueda, J., et al. (1980) An anomalous branch of the internal carotid artery supplying vessels of the posterior fossa directly. No To Shinkel 32:515-521.
 
