@@ -244,13 +244,13 @@ Stehbens, W.E. (1963) Aneurysms and anatomical variation of cerebral arteries. A
 
 ### Anterior Choroidal Artery
 
-Carpenter, M.B., Noback, C.R. and M.L. Moss. (1954) The anterior choroidal artery. Its origin, course, distribution and variations. Arch. Neurol. Psychiatry 71:714-722.
+Carpenter, M.B., Noback, C.R. and M.L. Moss. (1954) The anterior choroidal artery. Its origin, course, distribution and variations. Arch. Neurol. Psychiatry 71:714-722. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13157701/) | [DOI](https://doi.org/10.1001/ARCHNEURPSYC.1954.02320420042005)
 
 Hermann, L.H., Fernando, O.U. and E.S. Gurdijan. (1966) The anterior choroidal artery: An anatomical study of its area of distribution. Anat. Rec. 154:95-101.
 
 Mounieur-Kuhn, A. and A. Bouchef. (1956) L'artère choroidienne antèrieur. Assoc. Anatomistes, Comptes Rendus 43:598-618.
 
-Sjögren, S.E. (1956) The anterior choroidal artery. Acta Radiol. 46:143-157.
+Sjögren, S.E. (1956) The anterior choroidal artery. Acta Radiol. 46:143-157. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13361923/) | [DOI](https://doi.org/10.3109/00016925609170823)
 
 ---
 
@@ -320,9 +320,9 @@ McCormick, W.F. (1969) A unique anomaly of the intracranial arteries of man. Neu
 
 Metz, H., Murray-Leslie, R.M., Bannister, R.G., Bull, J.W.D. and J. Marshall. (1961) Kinking of the internal carotid artery in relation to cerebrovascular disease. Lancet 1:424-426. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13769898/) | [DOI](https://doi.org/10.1016/S0140-6736(61)90004-6)
 
-Morris, E.D. and D.B. Moffat. (1956) Abnormal origin of the basilar artery from the cervical part of the internal carotid artery and its embryological significance. Anat. Rec. 125:701-711.
+Morris, E.D. and D.B. Moffat. (1956) Abnormal origin of the basilar artery from the cervical part of the internal carotid artery and its embryological significance. Anat. Rec. 125:701-711. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13362957/) | [DOI](https://doi.org/10.1002/ar.1091250404)
 
-Newman, T.H. and D.A. Young. (1968) Anomalous origin of the occipital artery from the internal carotid artery. Radiology 90:550-552.
+Newman, T.H. and D.A. Young. (1968) Anomalous origin of the occipital artery from the internal carotid artery. Radiology 90:550-552. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5642292/) | [DOI](https://doi.org/10.1148/90.3.550)
 
 Oertel, O. (1922) Über die Persistenz embryonaler Verbindungen zwischen der Arteria carotis interna und der Arteria vertebralis cerebralis. Anat. Anz. 55:281-295.
 
@@ -362,9 +362,9 @@ Tigri, A. (1866) Patologia e teratologia dell' arteria carotide interna, Osserva
 
 Tode, -. (1787) Ein seltenes Naturspiel. Von dem Berfasser dieser Bibliothek. Medicinischchirurgische Bibliothek, Kopenhagen 10:407-409.
 
-Turnbull, I. (1962) Agenesis of the internal carotid artery. Neurology [Minneapolis] 12:588-590.
+Turnbull, I. (1962) Agenesis of the internal carotid artery. Neurology [Minneapolis] 12:588-590. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13923182/) | [DOI](https://doi.org/10.1212/WNL.12.9.588)
 
-Udvarhelyi, G.B. and M. Lau. (1963) Subarachnoid haemorrhage due to rupture of an aneurysm on a persistent left hypoglossal artery. Brit. J. Radiol. 36:843-847.
+Udvarhelyi, G.B. and M. Lau. (1963) Subarachnoid haemorrhage due to rupture of an aneurysm on a persistent left hypoglossal artery. Brit. J. Radiol. 36:843-847. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14080587/) | [DOI](https://doi.org/10.1259/0007-1285-36-431-843)
 
 Wyeth, J.A. (1878) Essay upon the surgical anatomy and history of the common, external and internal carotid arteries. Trans. Am. Med. Assoc. 29:1-139.
 
@@ -582,7 +582,7 @@ Smith, G.E. (1909) Note on an anomalous anastomosis between the internal carotid
 
 Tseng, S-L and H-K. Li. (1965) An observation of arterial system of Chinese brains. I. The external arteries of the brain. Acta Anatomica Sinica 8:278-292.
 
-Uchino, A., Sawada, A., Takase, Y. and S. Kudo. (2003) Variations of the superior cerebellar artery. MR angiographic demonstration. Radiat. Med. 21(6):235-238.
+Uchino, A., Sawada, A., Takase, Y. and S. Kudo. (2003) Variations of the superior cerebellar artery. MR angiographic demonstration. Radiat. Med. 21(6):235-238. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14743895/)
 
 ---
 
@@ -610,9 +610,9 @@ Hyrtl, J. (1887) Lehrbuch der Anatomie des Menschen, 19th ed. Wilhelm Braumülle
 
 ### Cerebellar Arteries
 
-Ahuja, A., Graves, V.B., Crosby, D.L. and C.M. Strother. (1992) Anomalous origin of the posterior inferior cerebellar artery from the internal carotid artery. Am. J. Neuroradiology (AJNR) 13:1625-1626.
+Ahuja, A., Graves, V.B., Crosby, D.L. and C.M. Strother. (1992) Anomalous origin of the posterior inferior cerebellar artery from the internal carotid artery. Am. J. Neuroradiology (AJNR) 13:1625-1626. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1442441/)
 
-Atkinson, W.J. (1949) The anterior inferior cerebellar artery. Its variations, pontine distribution, and significance in the surgery of cerebello-pontine angle tumors. J. Neurol. Neurosurg. Psychiatry 12:137-151.
+Atkinson, W.J. (1949) The anterior inferior cerebellar artery. Its variations, pontine distribution, and significance in the surgery of cerebello-pontine angle tumors. J. Neurol. Neurosurg. Psychiatry 12:137-151. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18127084/) | [DOI](https://doi.org/10.1136/jnnp.12.2.137)
 
 Bingham, W.G. and G.J. Hayes. (1961) Persistent carotid-basilar anastomosis. J. Neurosurg. 18:398-400. [DOI](https://doi.org/10.3171/JNS.1961.18.3.0398)
 
@@ -636,7 +636,7 @@ Guerrier, Y. and G. Villaceque. (1949) Origine et comportement des artères cér
 
 Guerrier, Y. and J. Olivier. (1951) A propos de l'origine des artères cérébelleuses. Assoc. Anatomistes, Comptes Rendus 38:576-579.
 
-Harrison, C.R. and C. Luttrell. (1953) Persistent carotid-basilar anastomosis. Three arteriographically demonstrated cases with one anatomical specimen. J. Neurosurg. 10:205-215.
+Harrison, C.R. and C. Luttrell. (1953) Persistent carotid-basilar anastomosis. Three arteriographically demonstrated cases with one anatomical specimen. J. Neurosurg. 10:205-215. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13053250/) | [DOI](https://doi.org/10.3171/JNS.1953.10.3.0205)
 
 Kempe, L.G. and D.R. Smith (1969) Trigeminal neuralgie, facial spasm, intermedius and glossopharyngeal neuralgia with persistent carotid-basilar anastomosis. J. Neurosurg. 31:445-451. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5349090/) | [DOI](https://doi.org/10.3171/JNS.1969.31.4.0445)
 
@@ -654,43 +654,43 @@ Lazorthes, G., Poulhès, J. and J. Espagno. (1950) Les territoires vasculaires d
 
 Lie, T.A. (1972) Persistent carotid-basilar and carotid vertebral anastomoses. In: Handbook of Clinical Neurology. Vol. 12 Vascular diseases of the nervous system. Part II, (Eds. Vinken and Bruyn), North Holland Publishing Company, Amsterdam, pp.311-335.
 
-Madonick, M.J. and A.P. Ruskin (1962) Recurrent oculomotor paresis. Paresis associated with a vascular anomaly, carotid-basilar anastomosis. Arch. Neurol. 6:353-357.
+Madonick, M.J. and A.P. Ruskin (1962) Recurrent oculomotor paresis. Paresis associated with a vascular anomaly, carotid-basilar anastomosis. Arch. Neurol. 6:353-357. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14468124/) | [DOI](https://doi.org/10.1001/ARCHNEUR.1962.00450230015002)
 
-Marry, G.S. and F.G. Jamieson. (1977) Operative approach to persistent trigeminal artery producing facial pain and diplopia. J. Neurosurg. 47:613-618.
+Marry, G.S. and F.G. Jamieson. (1977) Operative approach to persistent trigeminal artery producing facial pain and diplopia. J. Neurosurg. 47:613-618. [PubMed](https://pubmed.ncbi.nlm.nih.gov/903816/) | [DOI](https://doi.org/10.3171/JNS.1977.47.4.0613)
 
 Mracek, Z., Janda, J. and I. Koranda. (1982) Perzistujici arteria trigeminalis primitiva. Klinická a angiografická studie s anatomickou verifikací. Ceskoslovenská Neurologie a Neurochirurgie 45:345-351.
 
-Murtaugh, F., Stauffer, H.M. and R.D. Hartley. (1955) A case of persistent carotid-basilar anastomosis associated with aneurysm of the homolateral middle cerebral artery manifested by oculomotor palsy. J. Neurosurg. 12:46-49.
+Murtaugh, F., Stauffer, H.M. and R.D. Hartley. (1955) A case of persistent carotid-basilar anastomosis associated with aneurysm of the homolateral middle cerebral artery manifested by oculomotor palsy. J. Neurosurg. 12:46-49. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13233983/) | [DOI](https://doi.org/10.3171/JNS.1955.12.1.0046)
 
 Nadjmi, M. (1961) Über die Arteria primitiva trigemini im Carotis- und Vertebralis-angiogramm. Dtsch. Z. Nervenheilkunde 182:231-237.
 
 Ogawa, T., Fujita, H., Inugami, A., Shishido, F. and K. Higano. (1991) Anomalous origin of the posterior inferior cerebellar artery from the posterior meningeal artery. Am. J. Neuroradiology (AJNR) 12:186.
 
-Parkinson, D. and Ch.B. Shields. (1974) Persistent trigeminal artery: Its relationship to the normal branches of the cavernous carotid. J. Neurosurg. 39:244-248.
+Parkinson, D. and Ch.B. Shields. (1974) Persistent trigeminal artery: Its relationship to the normal branches of the cavernous carotid. J. Neurosurg. 39:244-248. [PubMed](https://pubmed.ncbi.nlm.nih.gov/4809123/) | [DOI](https://doi.org/10.3171/JNS.1974.40.2.0244)
 
-Samra, K., Scoville, W.B. and M. Yaghmai. (1969) Anastomosis of carotid and basilar arteries. Persistent primitive trigeminal artery and hypoglossal artery: Report of two cases. J. Neurosurg. 30:662-625.
+Samra, K., Scoville, W.B. and M. Yaghmai. (1969) Anastomosis of carotid and basilar arteries. Persistent primitive trigeminal artery and hypoglossal artery: Report of two cases. J. Neurosurg. 30:662-625. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5782389/) | [DOI](https://doi.org/10.3171/JNS.1969.30.5.0622)
 
-Schaerer, J.P. (1955) A case of carotid-basilar anastomosis with multiple associated cerebrovascular anomalies. J. Neurosurg. 12:62-65.
+Schaerer, J.P. (1955) A case of carotid-basilar anastomosis with multiple associated cerebrovascular anomalies. J. Neurosurg. 12:62-65. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13233986/) | [DOI](https://doi.org/10.3171/JNS.1955.12.1.0062)
 
-Siqueira, M., Piske, R., Ono, M. and R. Marino, Jr. (1993) Cerebellar arteries originating from the internal carotid artery. Am. J. Neuroradiology (AJNR) 14:1229-1235.
+Siqueira, M., Piske, R., Ono, M. and R. Marino, Jr. (1993) Cerebellar arteries originating from the internal carotid artery. Am. J. Neuroradiology (AJNR) 14:1229-1235. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8237708/)
 
-Stern, J., Correll, J.W. and N. Bryan. (1978) Persistent hypoglossal artery and persistent trigeminal artery presenting with posterior fossa transient ischemic attacks. J. Neurosurg. 49:614-619.
+Stern, J., Correll, J.W. and N. Bryan. (1978) Persistent hypoglossal artery and persistent trigeminal artery presenting with posterior fossa transient ischemic attacks. J. Neurosurg. 49:614-619. [PubMed](https://pubmed.ncbi.nlm.nih.gov/690694/) | [DOI](https://doi.org/10.3171/JNS.1978.49.4.0614)
 
-Sunderland, S. (1948) Neurovascular relations and anomalies at the base of the brain. J. Neurol. Neurosurg. Psychiatry 11:243-257.
+Sunderland, S. (1948) Neurovascular relations and anomalies at the base of the brain. J. Neurol. Neurosurg. Psychiatry 11:243-257. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18894644/) | [DOI](https://doi.org/10.1136/jnnp.11.4.243)
 
-Takahashi, M., Wiison, G. and W. Hanafee. (1968) The anterior inferior cerebellar artery: its radiologic anatomy and significance in the diagnosis of extra-axial tumors of the posterior fossa. Radiology 90:281-287.
+Takahashi, M., Wiison, G. and W. Hanafee. (1968) The anterior inferior cerebellar artery: its radiologic anatomy and significance in the diagnosis of extra-axial tumors of the posterior fossa. Radiology 90:281-287. [DOI](https://doi.org/10.1148/90.2.281)
 
 Tanohata, K., Maehara, T., Noda, M., Sugiyama, S. and A. Okazaki. (1987) Anomalous origin of the posterior meningeal artery from the lateral medullary segment of the posterior inferior cerebellar artery. Neuroradiology 29:89-92.
 
-Tsukamoto, S., Hori, Y., Utsumi, S., Tanigake, T., Horiike, N. and R. Otani. (1981) Proatlantal intersegmental artery with absence of bilateral vertebral arteries. J. Neurosurg. 54:122-124.
+Tsukamoto, S., Hori, Y., Utsumi, S., Tanigake, T., Horiike, N. and R. Otani. (1981) Proatlantal intersegmental artery with absence of bilateral vertebral arteries. J. Neurosurg. 54:122-124. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7463113/) | [DOI](https://doi.org/10.3171/JNS.1981.54.1.0122)
 
-Uchino, A., Sawada, A., Takase, Y. and S. Kudo. (2003) Variations of the superior cerebellar artery. MR angiographic demonstration. Radiat. Med. 21(6):235-238.
+Uchino, A., Sawada, A., Takase, Y. and S. Kudo. (2003) Variations of the superior cerebellar artery. MR angiographic demonstration. Radiat. Med. 21(6):235-238. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14743895/)
 
-Waller, F.T., Simons, R.L., Kerber, C., Kiesel, I.O. and C.T. Tanabe. (1977) Trigeminal artery and microemboli to the brain stem. J. Neurosurg. 46:104-106.
+Waller, F.T., Simons, R.L., Kerber, C., Kiesel, I.O. and C.T. Tanabe. (1977) Trigeminal artery and microemboli to the brain stem. J. Neurosurg. 46:104-106. [PubMed](https://pubmed.ncbi.nlm.nih.gov/556624/) | [DOI](https://doi.org/10.3171/JNS.1977.46.1.0104)
 
 Wise, B.L. and A.J. Palubinskas. (1964) Persistent trigeminal artery (carotid-basilar anastomosis). J. Neurosurg. 21:199-206.
 
-Wolf, B.S., Newman, C.M. and M.T. Khilnani. (1962) The posterior inferior cerebellar artery on vertebral angiography. Am. J. Roentgenol. 87:322-337.
+Wolf, B.S., Newman, C.M. and M.T. Khilnani. (1962) The posterior inferior cerebellar artery on vertebral angiography. Am. J. Roentgenol. 87:322-337. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14007917/)
 
 ---
 
