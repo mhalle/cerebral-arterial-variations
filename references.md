@@ -306,11 +306,11 @@ Krause, W. (1868) Varietaten der Arteria carotis interna und ihre Äste. In Henl
 
 Kwak, R. Kuwahara, K., Niizuma, H. and J. Suzuki (1979) Anomalies of the middle cerebral artery with intracranial saccular aneurysms: duplication and fenestration. No Shinkei Geka 7:691-696.
 
-Lapayowker, M.S., Liebman, E.P., Ronis, M.L., et al. (1971) Presentation of the internal carotid as a tumor of the middle ear. Radiology 98:293-297.
+Lapayowker, M.S., Liebman, E.P., Ronis, M.L., et al. (1971) Presentation of the internal carotid as a tumor of the middle ear. Radiology 98:293-297. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5099834/) | [DOI](https://doi.org/10.1148/98.2.293)
 
 Lapras, C., Thierry, A., Michel, D., et al. (1965) Signes radiologiques des anévrysmes intra-craniens due système carotidien. Neurochirurgia (Stuttgart) 8:172-187.
 
-Lasjaunias, P. and A. Santoyo-Vasquez. (1984) Segmental agenesis of the internal carotid artery: angiographic aspects with embryological discussion. Anat. Clin. 6:133-141.
+Lasjaunias, P. and A. Santoyo-Vasquez. (1984) Segmental agenesis of the internal carotid artery: angiographic aspects with embryological discussion. Anat. Clin. 6:133-141. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6498000/) | [DOI](https://doi.org/10.1007/BF01773165)
 
 Lecuire, J., Buffard, P., Goutelle, A., et al. (1965) Considérations anatomiques, cliniques, et radioloiques à propos d'une artère hypoglosse. J. Radiol. Electrol. 5:217-222.
 
@@ -332,7 +332,7 @@ Padget, D.H. (1948) The development of the cranial arteries in the human embryo.
 
 Pakula, H. and J. Zaigner. (1970) The small branches of the cavernous portion of the internal carotid artery. Folia Morphol., Warsaw 29:9-14.
 
-Parkinson, D. (1964) Collateral circulation of the cavernous carotid artery: Anatomy. Can. J. Surg. 7:251-268.
+Parkinson, D. (1964) Collateral circulation of the cavernous carotid artery: Anatomy. Can. J. Surg. 7:251-268. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14176972/)
 
 Priman, J. and D.H. Christie. (1959) A case of abnormal internal carotid artery and associated vascular anomalies. Anat. Rec. 134:87-95. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14434904/) | [DOI](https://doi.org/10.1002/ar.1091340109)
 
